@@ -8,6 +8,17 @@ Shout out to all who provides all of required resources for all of projects proj
 Peace out! 😁
 ---
 
-**First look at the dashboard**:
-**Hospitality dashboard**
-![dashboard!](/codebasic-powerbi-hospitality domain/pics-dashboard.PNG) 
+**First look at the dashboard**:  
+**Hospitality dashboard**  
+<p align="center">
+  <img src="./codebasic-powerbi-hospitality domain/pics-dashboard.PNG" />
+</p>  
+  
+<br>
+
+**Supply Chain dashboard**  
+<p align="center">
+  <img src="./codebasic-powerbi-supplychain domain/pics-dashboard.PNG" />
+</p>  
+  
+<br>
