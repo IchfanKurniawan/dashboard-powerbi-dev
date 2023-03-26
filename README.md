@@ -6,3 +6,8 @@ Shout out to all who provides all of required resources for all of projects proj
 - [Codebasics](https://codebasics.io/)    
 
 Peace out! 😁
+---
+
+**First look at the dashboard**:
+**Hospitality dashboard**
+![dashboard!](/codebasic-powerbi-hospitality domain/pics-dashboard.PNG) 
